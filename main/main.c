@@ -24,10 +24,10 @@ int main()
     bool run = 1;
 
     Auth auth = {
-        "localhost",
-        "kay",
-        "kush.mysql",
-        "test"
+        "<host>",
+        "<user>",
+        "<password>",
+        "<database>"
     };
 
     while (run) {
